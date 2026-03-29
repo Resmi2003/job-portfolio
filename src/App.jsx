@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Portfolio() { return ( <div className="min-h-screen bg-gray-100 text-gray-800"> {/* Navbar */} <nav className="bg-white shadow p-4 flex justify-between"> <h1 className="text-xl font-bold">Resmi R Menon</h1> <div className="space-x-4"> <a href="#about">About</a> <a href="#projects">Projects</a> <a href="#contact">Contact</a> </div> </nav>
+export default function App() { return ( <div className="min-h-screen bg-gray-100 text-gray-800"> {/* Navbar */} <nav className="bg-white shadow p-4 flex justify-between"> <h1 className="text-xl font-bold">Resmi R Menon</h1> <div className="space-x-4"> <a href="#about">About</a> <a href="#projects">Projects</a> <a href="#contact">Contact</a> </div> </nav>
 
 {/* Hero Section */}
   <section className="text-center py-16 bg-blue-500 text-white">
