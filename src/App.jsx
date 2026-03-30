@@ -19,7 +19,7 @@ export default function App() {
         <h2 className="text-2xl md:text-4xl font-bold">
           MERN Stack Developer (Fresher)
         </h2>
-        <p className="mt-3 md:mt-4">B.Tech CSE | CGPA: 7.29</p>
+        <p className="mt-3 md:mt-4 text-lg font-semibold">B.Tech CSE | CGPA: 7.29</p>
       </section>
 
       {/* About */}
@@ -80,7 +80,7 @@ export default function App() {
       </section>
 
       {/* Contact */}
-      <section id="contact" className="p-4 md:p-8 bg-white">
+      <section id="contact" className="p-4 md:p-8 bg-white mt-40">
         <h2 className="text-xl md:text-2xl font-semibold mb-4">Contact</h2>
         <p>Email: resmirmenonrrm@gmail.com</p>
         <p>Phone: +91 7593006927</p>
